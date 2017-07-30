@@ -48,6 +48,7 @@ export default class SceondProfect1 extends Component {
               <Text>当前屏幕的分辨率：{Dimensions.get('window').scale}</Text>
               <Text>我是git的部分</Text>
               <Text>我是第二次的git</Text>
+              <Text>我是第三次的git</Text>
             </View>
         );
     }
